@@ -15,5 +15,5 @@ Olá 👋
 ㅤ
 ㅤ
 email: daviconta10@gmail.com
-linkedin: https://www.linkedin.com/in/davi-rodrigues-do-nascimento-609b62237/
+ㅤㅤㅤlinkedin: https://www.linkedin.com/in/davi-rodrigues-do-nascimento-609b62237/
 

@@ -11,5 +11,5 @@ Olá 👋
 
 💬 Pergunte-me sobre: Modelagem de dados, algoritmos básicos em C, ou os fundamentos de HTML e CSS.
 
-📫 Como me contactar: davirnascimento10@gmail.com
+📫 Como me contactar: daviconta10@gmail.com
 

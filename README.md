@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Rodrigu3zrn/Rodrigu3zrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá 👋
 
-Here are some ideas to get you started:
+🔭 Estou trabalhando atualmente em: Finalizar a modelagem conceitual e a implementação SQL de um Sistema de Gerenciamento de Mobilidade Urbana/Logística.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estou aprendendo atualmente: HTML, CSS, JavaScript (para desenvolvimento web), e aprofundando em boas práticas de programação C e otimização de consultas SQL.
+
+👯 Estou buscando colaborar em: Projetos iniciantes ou intermediários que envolvam C para back-end, modelagem de bancos de dados relacionais, ou desafios de front-end com HTML/CSS.
+
+🤔 Estou procurando ajuda com: Refinar a estrutura de tabelas SQL para o relacionamento N:M (Muitos para Muitos) no meu projeto de Logística.
+
+💬 Pergunte-me sobre: Modelagem de dados, algoritmos básicos em C, ou os fundamentos de HTML e CSS.
+
+📫 Como me contactar: davirnascimento10@gmail.com
+
